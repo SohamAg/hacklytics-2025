@@ -1,0 +1,6 @@
+train: E:\Hacklytics-2025/hacklytics-2025/frames/dpi-label-train
+val: E:\Hacklytics-2025/hacklytics-2025/frames/dpi-label-validation
+nc: 4
+names: ["interference", "receiver", "defender", "ball"]
+# labels: E:\Hacklytics-2025/hacklytics-2025/frames/dpi-label-1
+# val_labels: E:\Hacklytics-2025/hacklytics-2025/frames/dpi-label-val
