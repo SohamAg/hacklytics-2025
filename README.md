@@ -19,6 +19,7 @@ FairCall AI was created to help fairly and accurately produce correct officiatin
 - **Frontend:** Built with Streamlit user-friendly experience
 - **Backend:** The backend is primarily Python, passing information between LM Studio and frontend
 - **LLM**: used LM studio along with Python scripting to provide reasoning for penalty calls and plays
+- **Heuristics**: Carefully devised heuristics inform the decision of the LLM
 - **YOLO**: YOLO detects objects in frame and has been trained on players and footballs
 
 ## Getting Started 
