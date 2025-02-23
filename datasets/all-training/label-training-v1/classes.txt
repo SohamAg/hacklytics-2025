@@ -1,0 +1,5 @@
+defender
+attacker
+receiver
+interference
+football
