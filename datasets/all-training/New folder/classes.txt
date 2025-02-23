@@ -1,0 +1,4 @@
+defender
+receiver
+interference
+football
