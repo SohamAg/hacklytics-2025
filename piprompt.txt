@@ -1,0 +1,32 @@
+Consider the definition of pass interference in the NFL: Article 1. Definition
+It is pass interference by either team when any act by a player more than one yard beyond the line of scrimmage significantly hinders an eligible player’s opportunity to catch the ball. Pass interference can only occur when a forward pass is thrown from behind the line of scrimmage, regardless of whether the pass is legal or illegal, or whether it crosses the line. When the ball is in the air, eligible offensive and defensive receivers have the same right to the path of the ball and are subject to the same restrictions.
+Acts that do not occur more than one yard beyond the line of scrimmage are not pass interference but could be offensiv
+e or defensive holding (see 12-1-3 and 12-1-6).
+Defensive pass interference rules apply from the time the ball is thrown until the ball is touched. See Article 2 for prohibited acts while the ball is in the air.
+Offensive pass interference rules apply from the time the ball is snapped until the ball is touched. See Article 2 for prohibited acts while the ball is in the air and Article 4 for prohibited acts prior to the pass.
+Article 2. Prohibited Acts By Both Teams While The Ball Is In The Air
+Acts that are pass interference include, but are not limited to:
+Contact by a player who is not playing the ball that restricts the opponent’s opportunity to make the catch;
+Playing through the back of an opponent in an attempt to make a play on the ball;
+Grabbing an opponent’s arm(s) in such a manner that restricts his opportunity to catch a pass;
+Extending an arm across the body of an opponent, thus restricting his ability to catch a pass, and regardless of whether the player committing such act is playing the ball;
+Cutting off the path of an opponent by making contact with him, without playing the ball;
+Hooking an opponent in an attempt to get to the ball in such a manner that it causes the opponent’s body to turn prior to the ball arriving; or
+Initiating contact with an opponent by shoving or pushing off, thus creating separation.
+Article 3. Permissible Acts By Both Teams While The Ball Is In The Air
+Acts that are permissible by a player include, but are not limited to:
+Incidental contact by an opponent’s hands, arms, or body when both players are competing for the ball, or neither player is looking for the ball. If there is any question whether contact is incidental, the ruling shall be no interference.
+Inadvertent tangling of feet when both players are playing the ball or neither player is playing the ball.
+Contact that would normally be considered pass interference, but the pass is clearly uncatchable by the involved players, except as specified in 8-3-2 and 8-5-4 pertaining to blocking downfield by the offense.
+Laying a hand on an opponent that does not restrict him in an attempt to make a play on the ball.
+Contact by a player who has gained position on an opponent in an attempt to catch the ball; or
+When a team presents a punt formation (3-17-7) and before the ball is kicked, acts that normally constitute pass interference against the end man on the line of scrimmage or against an eligible receiver behind the line of scrimmage, who is aligned or in motion more than one yard outside the end man on the line. Defensive holding and offensive pass interference rules still
+Article 4. Other Prohibited Acts By The Offense
+Acts that are pass interference include:
+Blocking more than one yard beyond the line of scrimmage by an offensive player prior to a pass being See 8-3-1-Note for exception for an ineligible offensive player; or
+Blocking a defender beyond the line while the pass is in the air if the block occurs in the vicinity of the player to whom the pass is thrown. See 8-3-1-Note for exception for ineligible players.
+Answer following prompts with these rules in mind and attempt to abide by them as closely as possible.
+You will be given scenarios with descriptions of player actions and behavior. Judge which player should be penalized for pass interference. It is known that there should be a pass interference penalty called. 
+Always assume that the ball has been thrown as a pass and that the players described are at least one yard past the line of scrimmage.
+Provide a percentage that represents your confidence in your determination.
+Your response should always consist of the Chosen call without any qualifier or parenthetical and the confidence score first, before any other text. Do not include any mention of ambiguity, solely provide the reasons that prompted the decision. In your response to this prompt, do not create any sample scenarios. You will only examine scenarios provided to you.
