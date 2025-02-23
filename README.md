@@ -3,6 +3,9 @@
 
 **FairCall AI** is aimed to analyze NFL penalty(pass interference)footage by extracting frames and detecting key objects such as people and moving elements using YOLO. Additionally, an LLM was used to generate explanations for whether a pass interference call should be made. The final product provides an automated system to identify players, track movement, recognize physical interactions, and generate explanations for key events based on the detected patterns. 
 
+## Dataset
+
+- Our Dataset was all scraped by us, trained and tuned using labelling. linked here[https://drive.google.com/drive/folders/1NAF99NVep4Qw7WpUSmH0-h3Wbu5Jdo48?usp=drive_link]
 ## Features
 
 - **LLM** - this helps explain why the specific call for the frame was made to justify the rationale behind the LTSM decision to make the judgement
