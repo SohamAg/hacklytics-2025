@@ -1,7 +1,7 @@
 # FairCall AI - Hackalytics 2025
-Project for hacklytics 2025
 
-FairCall AI aimed to analyze NFL penalty(pass interference)footage by extracting frames, detecting key objects such as people and moving elements using YOLO, and classifying interactions using Long Short-Term Memory (LSTM). Additionally, an LLM was used to generate explanations for whether a pass interference call should be made. The final product provided an automated system to identify players, track movement, recognize physical interactions, and generate explanations for key events based on the detected patterns. 
+
+**FairCall AI** aimed to analyze NFL penalty(pass interference)footage by extracting frames, detecting key objects such as people and moving elements using YOLO, and classifying interactions using Long Short-Term Memory (LSTM). Additionally, an LLM was used to generate explanations for whether a pass interference call should be made. The final product provided an automated system to identify players, track movement, recognize physical interactions, and generate explanations for key events based on the detected patterns. 
 
 ## Features
 
