@@ -5,11 +5,12 @@
 
 ## Dataset
 
-- Our Dataset was all scraped by us, trained and tuned using labelling. linked here[https://drive.google.com/drive/folders/1NAF99NVep4Qw7WpUSmH0-h3Wbu5Jdo48?usp=drive_link]
+- Our Dataset was all scraped by us, trained and tuned using labelling. linked [here](https://drive.google.com/drive/folders/1NAF99NVep4Qw7WpUSmH0-h3Wbu5Jdo48?usp=drive_link)
+  
 ## Features
 
 - **LLM** - this helps explain why the specific call for the frame was made to justify the rationale behind the LTSM decision to make the judgement
-- **YOLO** - this was used to automate object detection, and convert frames into coordinates/numbers to easily identify patterns
+- **YOLO** - this was used to automate object detection, and convert frames into coordinates/numbers to easily identify patterns. Our Model is linked linked [here](https://drive.google.com/drive/folders/1NAF99NVep4Qw7WpUSmH0-h3Wbu5Jdo48?usp=drive_link)
 
  ## How It Works
   
