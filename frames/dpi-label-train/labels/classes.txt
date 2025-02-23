@@ -1,4 +1,0 @@
-ball
-interference
-receiver
-defender
